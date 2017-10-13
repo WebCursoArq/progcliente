@@ -18,6 +18,7 @@ public class Paginawebcliente {
         // TODO code application logic here
         //HOLA
         //CAMBIO DE CODIGO EXITOSO
+        //TERMINADA LA VERSION 2
     }
     
 }
